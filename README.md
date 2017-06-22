@@ -18,4 +18,4 @@ Example of data:
 
 `` getPkmnById(1); //Bulbizarre ``
 
-`` getPkmnByName(Bulbizarre); //1 ``
+`` getPkmnByName("Bulbizarre"); //1 ``
